@@ -1,0 +1,3 @@
+{% macro (x) %}
+     x
+{% endmacro %}
